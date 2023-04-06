@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680743130 source:c:\users\7loul\desktop\code\firstprojectoop\main.cpp
+	"header.h"
+
+1680774664 c:\users\7loul\desktop\code\firstprojectoop\header.h
+	<iostream>
+	<map>
+
+1680740463 source:c:\users\7loul\desktop\code\firstprojectoop\login.cpp
+	"header.h"
+
